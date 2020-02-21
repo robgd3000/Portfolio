@@ -1,0 +1,56 @@
+/* Reset */
+
+/* * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+   
+  ul {
+    list-style: none;
+  }
+   
+  a,
+  button {
+    color: inherit;
+  }
+   
+  a {
+    text-decoration: none;
+  }
+   
+  button {
+    background: none;
+    cursor: pointer;
+  }
+   
+  input {
+    -webkit-appearance: none;
+  }
+   
+  button,
+  input {
+    border: none;
+  }
+   
+  svg {
+    display: block;
+  }
+   
+  body {
+    font: 16px "Lato", sans-serif;
+  } */
+
+
+
+.container {
+    background-color: purple;
+    
+}
+
+.nav a {
+    padding: .5rem;
+}
+#home {
+    background-color: pink;
+}
