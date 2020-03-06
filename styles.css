@@ -43,14 +43,30 @@
 
 
 
-.container {
-    background-color: purple;
-    
-}
 
-.nav a {
-    padding: .5rem;
+
+body {
+    background-color: #DBDBD9;
+    font-family: 'Federant', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-#home {
-    background-color: pink;
+.nav {
+  display: flex;
+  justify-content: center;
+}  
+.nav button {
+    margin: .5rem;
+}
+.logo img {
+  height: 3rem;
+  margin-top: .2rem;
+}
+h1 {
+    font-family: 'Press Start 2P', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 5rem;
+
+}
+h2 {
+    font-family: 'Federant', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2rem;
+    margin-top: 3rem;
 }
