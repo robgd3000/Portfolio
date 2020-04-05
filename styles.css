@@ -70,3 +70,14 @@ h2 {
     font-size: 2rem;
     margin-top: 3rem;
 }
+.projects {
+  height: 175px;
+  padding-top: 1rem;
+  text-align: center;
+  background-color: chartreuse;
+}
+
+.projects p {
+  text-decoration: none;
+  color: black;
+}
