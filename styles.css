@@ -46,7 +46,7 @@
 
 
 body {
-    background-color: #DBDBD9;
+    background-color: #272725;
     font-family: 'Federant', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .nav {
@@ -70,14 +70,25 @@ h2 {
     font-size: 2rem;
     margin-top: 3rem;
 }
+h3 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
 .projects {
   height: 175px;
   padding-top: 1rem;
   text-align: center;
-  background-color: chartreuse;
+  background-color: #D9D1C5;
+  border-radius: 25px;
 }
 
 .projects p {
   text-decoration: none;
   color: black;
+}
+
+#contacts {
+  background-image: url(./images/cables.jpg);
+  margin-top: 6rem;
+  height: auto;
 }
