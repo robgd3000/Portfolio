@@ -48,12 +48,13 @@
 body {
     background-color: #272725;
     font-family: 'Federant', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 2rem;
 }
 .nav {
   display: flex;
   justify-content: center;
 }  
-.nav button {
+.nav a {
     margin: .5rem;
 }
 .logo img {
